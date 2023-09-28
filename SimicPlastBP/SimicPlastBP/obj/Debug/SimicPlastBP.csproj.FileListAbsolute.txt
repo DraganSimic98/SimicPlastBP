@@ -1,0 +1,17 @@
+C:\Users\Dragan\source\repos\SimicPlastBP\SimicPlastBP\bin\Debug\SimicPlastBP.exe.config
+C:\Users\Dragan\source\repos\SimicPlastBP\SimicPlastBP\bin\Debug\SimicPlastBP.exe
+C:\Users\Dragan\source\repos\SimicPlastBP\SimicPlastBP\bin\Debug\SimicPlastBP.pdb
+C:\Users\Dragan\source\repos\SimicPlastBP\SimicPlastBP\obj\Debug\SimicPlastBP.csprojAssemblyReference.cache
+C:\Users\Dragan\source\repos\SimicPlastBP\SimicPlastBP\obj\Debug\SimicPlastBP.Form1.resources
+C:\Users\Dragan\source\repos\SimicPlastBP\SimicPlastBP\obj\Debug\SimicPlastBP.Pocetna.resources
+C:\Users\Dragan\source\repos\SimicPlastBP\SimicPlastBP\obj\Debug\SimicPlastBP.PregledKupaca.resources
+C:\Users\Dragan\source\repos\SimicPlastBP\SimicPlastBP\obj\Debug\SimicPlastBP.Properties.Resources.resources
+C:\Users\Dragan\source\repos\SimicPlastBP\SimicPlastBP\obj\Debug\SimicPlastBP.Prozori1.resources
+C:\Users\Dragan\source\repos\SimicPlastBP\SimicPlastBP\obj\Debug\SimicPlastBP.Prozori2.resources
+C:\Users\Dragan\source\repos\SimicPlastBP\SimicPlastBP\obj\Debug\SimicPlastBP.Prozori3.resources
+C:\Users\Dragan\source\repos\SimicPlastBP\SimicPlastBP\obj\Debug\SimicPlastBP.SpecProzori.resources
+C:\Users\Dragan\source\repos\SimicPlastBP\SimicPlastBP\obj\Debug\SimicPlastBP.UnosKupca.resources
+C:\Users\Dragan\source\repos\SimicPlastBP\SimicPlastBP\obj\Debug\SimicPlastBP.csproj.GenerateResource.cache
+C:\Users\Dragan\source\repos\SimicPlastBP\SimicPlastBP\obj\Debug\SimicPlastBP.csproj.CoreCompileInputs.cache
+C:\Users\Dragan\source\repos\SimicPlastBP\SimicPlastBP\obj\Debug\SimicPlastBP.exe
+C:\Users\Dragan\source\repos\SimicPlastBP\SimicPlastBP\obj\Debug\SimicPlastBP.pdb
